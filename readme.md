@@ -211,14 +211,14 @@ by ts.kdv.raz0r >)
 
 #### Сергей Балакирев:
 <details>
-    <summary>[] Добрый, добрый Python</summary>
+    <summary>[] [Добрый, добрый Python](https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python)</summary>
         <ul>
 <details>
     <summary>[x] 01. Первое знакомство</summary>
         <ul>
             <li>[x] 1.1 Как правильно проходить этот курс</li>
             <li>[x] 1.2 Первое знакомство с Python. Порядок установки</li>
-            <li>[x] 1.3 Варианты выполнения команд. Переходим в PyCharm</li>
+            <li>[x] [1.3 Варианты выполнения команд. Переходим в PyCharm](https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/1.3%20Варианты%20выполнения%20команд.%20Переходим%20в%20PyCharm.ipynb)</li>
         </ul>
 </details>
 <details>
