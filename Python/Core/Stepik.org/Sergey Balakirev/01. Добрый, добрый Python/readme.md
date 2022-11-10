@@ -6,63 +6,63 @@
 
 # Модули курса:
 <details>
-    <summary>[x] 01. Первое знакомство</summary>
+    <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/01.%20Первое%20знакомство">[x] 01. Первое знакомство</a></summary>
         <ul>
             <li>[x] 1.1 Как правильно проходить этот курс</li>
             <li>[x] 1.2 Первое знакомство с Python. Порядок установки</li>
-            <li>[x] 1.3 Варианты выполнения команд. Переходим в PyCharm</li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/01.%20Первое%20знакомство/1.3%20Варианты%20выполнения%20команд.%20Переходим%20в%20PyCharm.ipynb">[x] 1.3 Варианты выполнения команд. Переходим в PyCharm</a></li>
         </ul>
 </details>
 <details>
-    <summary>[x] 02. Мои первые шаги в Python</summary>
+    <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python">[x] 02. Мои первые шаги в Python</a></summary>
         <ul>
             <li>[x] 2.1 Переменные, оператор присваивания, функции type и id</li>
             <li>[x] 2.2 Числа и операции над ними</li>
-            <li>[x] 2.3 Математические функции и модуль math</li>
-            <li>[x] 2.4 Функции print и input</li>
-            <li>[x] 2.5 Логический тип Bool. Операторы сравнения</li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python/2.3%20Математические%20функции%20и%20модуль%20math.ipynb">[x] 2.3 Математические функции и модуль math</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python/2.4%20Функции%20print%20и%20input.ipynb">[x] 2.4 Функции print и input</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python/2.5%20Логический%20тип%20Bool.%20Операторы%20сравнения.ipynb">[x] 2.5 Логический тип Bool. Операторы сравнения</a></li>
         </ul>
 </details>
 <details>
-    <summary>[x] 03. Постижение строк и списков</summary>
+    <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков">[x] 03. Постижение строк и списков</a></summary>
         <ul>
-            <li>[x] 3.1 Введение в строки. Операции над строками</li>
-            <li>[x] 3.2 Индексы и срезы строк</li>
-            <li>[x] 3.3 Основные методы строк</li>
-            <li>[x] 3.4 Спецсимволы и экранирование символов</li>
-            <li>[x] 3.5 Форматирование строк и F-строки</li>
-            <li>[x] 3.6 Списки и операции над ними</li>
-            <li>[x] 3.7 Срезы списков. Операторы сравнения списков</li>
-            <li>[x] 3.8 Методы списков</li>
-            <li>[x] 3.9 Вложенные списки</li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.1%20Введение%20в%20строки.%20Операции%20над%20строками.ipynb">[x] 3.1 Введение в строки. Операции над строками</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.2%20Индексы%20и%20срезы%20строк.ipynb">[x] 3.2 Индексы и срезы строк</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.3%20Основные%20методы%20строк.ipynb">[x] 3.3 Основные методы строк</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.4%20Спецсимволы%20и%20экранирование%20символов.ipynb">[x] 3.4 Спецсимволы и экранирование символов</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.5%20Форматирование%20строк%20и%20F-строки.ipynb">[x] 3.5 Форматирование строк и F-строки</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.6%20Списки%20и%20операции%20над%20ними.ipynb">[x] 3.6 Списки и операции над ними</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.7%20Срезы%20списков.%20Операторы%20сравнения%20списков.ipynb">[x] 3.7 Срезы списков. Операторы сравнения списков</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.8%20Методы%20списков.ipynb">[x] 3.8 Методы списков</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков/3.9%20Вложенные%20списки.ipynb">[x] 3.9 Вложенные списки</a></li>
         </ul>
 </details>
 <details>
-    <summary>[x] 04. Условные операторы</summary>
+    <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/04.%20Условные%20операторы">[x] 04. Условные операторы</a></summary>
         <ul>
-            <li>[x] 4.1 Условный оператор if. Конструкция if-else</li>
-            <li>[x] 4.2 Вложенные условия и множественный выбор</li>
-            <li>[x] 4.3 Тернарный условный оператор</li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/04.%20Условные%20операторы/4.1%20Условный%20оператор%20if.%20Конструкция%20if-else.ipynb">[x] 4.1 Условный оператор if. Конструкция if-else</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/04.%20Условные%20операторы/4.2%20Вложенные%20условия%20и%20множественный%20выбор.ipynb">[x] 4.2 Вложенные условия и множественный выбор</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/04.%20Условные%20операторы/4.3%20Тернарный%20условный%20оператор.ipynb">[x] 4.3 Тернарный условный оператор</a></li>
         </ul>
 </details>
 <details>
-    <summary>[x] 05. Циклы, итераторы и генераторы списков</summary>
+    <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков">[x] 05. Циклы, итераторы и генераторы списков</a></summary>
         <ul>
-            <li>[x] 5.1 Оператор цикла while</li>
-            <li>[x] 5.2 Операторы break, continue и else</li>
-            <li>[x] 5.3 Оператор цикла for и функция range</li>
-            <li>[x] 5.4 Примеры работы оператора цикла for. Функция enumerate</li>
-            <li>[x] 5.5 Итератор и итерируемые объекты. Функции iter и next</li>
-            <li>[x] 5.6 Вложенные циклы</li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.1%20Оператор%20цикла%20while.ipynb">[x] 5.1 Оператор цикла while</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.2%20Операторы%20break%2C%20continue%20и%20else.ipynb">[x] 5.2 Операторы break, continue и else</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.3%20Оператор%20цикла%20for%20и%20функция%20range.ipynb">[x] 5.3 Оператор цикла for и функция range</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.4%20Примеры%20работы%20оператора%20цикла%20for.%20Функция%20enumerate.ipynb">[x] 5.4 Примеры работы оператора цикла for. Функция enumerate</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.5%20Итератор%20и%20итерируемые%20объекты.%20Функции%20iter%20и%20next.ipynb">[x] 5.5 Итератор и итерируемые объекты. Функции iter и next</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.6%20Вложенные%20циклы.ipynb">[x] 5.6 Вложенные циклы</a></li>
             <li>[x] 5.7 Треугольник Паскаля</li>
-            <li>[x] 5.8 Генераторы списков (List comprehension)</li>
-            <li>[x] 5.9 Вложенные циклы и вложенные генераторы списков</li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.8%20Генераторы%20списков%20(List%20comprehension).ipynb">[x] 5.8 Генераторы списков (List comprehension)</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.9%20Вложенные%20циклы%20и%20вложенные%20генераторы%20списков.ipynb">[x] 5.9 Вложенные циклы и вложенные генераторы списков</a></li>
         </ul>
 </details>
 <details>
-    <summary>[] 06. Словари, кортежи и множества</summary>
+    <summary><a href="">[] 06. Словари, кортежи и множества</a></summary>
         <ul>
-            <li>[] 6.1 Введение в словари</li>
+            <li><a href="">[x] 6.1 Введение в словари</a></li>
             <li>[] 6.2 Методы словаря. Перебор его элементов в цикле</li>
             <li>[] 6.3 Кортежи (tuple) и их методы</li>
             <li>[] 6.4 Множества (set) и их методы</li>
