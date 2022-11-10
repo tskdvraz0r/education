@@ -224,8 +224,8 @@ by ts.kdv.raz0r >)
 <details>
     <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python">[Done!] 02. Мои первые шаги в Python</a></summary>
         <ul>
-            <li>[x] 2.1 Переменные, оператор присваивания, функции type и id</li>
-            <li>[x] 2.2 Числа и операции над ними</li>
+            <li>[Theory] 2.1 Переменные, оператор присваивания, функции type и id</li>
+            <li>[Theory] 2.2 Числа и операции над ними</li>
             <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python/2.3%20Математические%20функции%20и%20модуль%20math.ipynb">[Done!] 2.3 Математические функции и модуль math</a></li>
             <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python/2.4%20Функции%20print%20и%20input.ipynb">[Done!] 2.4 Функции print и input</a></li>
             <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python/2.5%20Логический%20тип%20Bool.%20Операторы%20сравнения.ipynb">[Done!] 2.5 Логический тип Bool. Операторы сравнения</a></li>
@@ -258,7 +258,7 @@ by ts.kdv.raz0r >)
         <ul>
             <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.1%20Оператор%20цикла%20while.ipynb">[Done!] 5.1 Оператор цикла while</a></li>
             <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.2%20Операторы%20break%2C%20continue%20и%20else.ipynb">[Done!] 5.2 Операторы break, continue и else</a></li>
-            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.3%20Оператор%20цикла%20for%20и%20функция%20range.ipynb">[Done! 5.3 Оператор цикла for и функция range</a></li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.3%20Оператор%20цикла%20for%20и%20функция%20range.ipynb">[Done!] 5.3 Оператор цикла for и функция range</a></li>
             <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.4%20Примеры%20работы%20оператора%20цикла%20for.%20Функция%20enumerate.ipynb">[Done!] 5.4 Примеры работы оператора цикла for. Функция enumerate</a></li>
             <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.5%20Итератор%20и%20итерируемые%20объекты.%20Функции%20iter%20и%20next.ipynb">[Done!] 5.5 Итератор и итерируемые объекты. Функции iter и next</a></li>
             <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков/5.6%20Вложенные%20циклы.ipynb">[Done!] 5.6 Вложенные циклы</a></li>
