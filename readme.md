@@ -28,7 +28,7 @@ by ts.kdv.raz0r >)
                     </ul>
             </details>
             <details>
-                <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[...] 02. Ввод-вывод данных</a>></summary>
+                <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a></summary>
                     <ul>
                         <li>[Tests] 2.1 Введение. Знакомство с Python</li>
                         <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.2%20Команды%20print%20и%20input.ipynb">[Done!] 2.2 Команды print и input</a></li>
@@ -38,10 +38,10 @@ by ts.kdv.raz0r >)
                     </ul>
             </details>
             <details>
-                <summary>[...] 03. Итоговая работа на ввод-вывод данных</summary>
+                <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/03.%20Итоговая%20работа%20на%20ввод-вывод%20данных">[Done!] 03. Итоговая работа на ввод-вывод данных</a></summary>
                     <ul>
-                        <li>[...] 3.1 Часть 1</li>
-                        <li>[...] 3.2 Часть 2</li>
+                        <li>[Tests] 3.1 Часть 1</li>
+                        <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/03.%20Итоговая%20работа%20на%20ввод-вывод%20данных/3.2%20Часть%202.ipynb">[Done!] 3.2 Часть 2</a></li>
                     </ul>
             </details>
             <details>
