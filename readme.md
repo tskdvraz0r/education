@@ -34,7 +34,7 @@ by ts.kdv.raz0r >)
                         <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.2%20Команды%20print%20и%20input.ipynb">[Done!] 2.2 Команды print и input</a></li>
                         <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.3%20Параметры%20sep%20и%20end.ipynb">[Done!] 2.3 Параметры sep и end</a></li>
                         <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.4%20Целочисленная%20арифметика.%20Часть%201.ipynb">[Done!] 2.4 Целочисленная арифметика. Часть 1</a></li>
-                        <li><a href="">[...] 2.5 Целочисленная арифметика. Часть 2</a></li>
+                        <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.5%20Целочисленная%20арифметика.%20Часть%202.ipynb">[Done!] 2.5 Целочисленная арифметика. Часть 2</a></li>
                     </ul>
             </details>
             <details>
