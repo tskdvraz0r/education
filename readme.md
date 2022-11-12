@@ -28,10 +28,10 @@ by ts.kdv.raz0r >)
                     </ul>
             </details>
             <details>
-                <summary>[...] 02. Ввод-вывод данных</summary>
+                <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[...] 02. Ввод-вывод данных</a>></summary>
                     <ul>
                         <li>[Tests] 2.1 Введение. Знакомство с Python</li>
-                        <li>[...] 2.2 Команды print и input</li>
+                        <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.2%20Команды%20print%20и%20input.ipynb">[Done!] 2.2 Команды print и input</a></li>
                         <li>[...] 2.3 Параметры sep и end</li>
                         <li>[...] 2.4 Целочисленная арифметика. Часть 1</li>
                         <li>[...] 2.5 Целочисленная арифметика. Часть 2</li>
