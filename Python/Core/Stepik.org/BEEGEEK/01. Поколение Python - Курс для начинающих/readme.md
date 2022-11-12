@@ -15,45 +15,45 @@
 
 # Модули курса:
 <details>
-    <summary>[x] 01. Общая информация о курсе</summary>
+    <summary>[Done!] 01. Общая информация о курсе</summary>
         <ul>
-            <li>[x] 1.1 Общая информация о курсе</li>
-            <li>[x] 1.2 Как проходить курс?</li>
+            <li>[Theory] 1.1 Общая информация о курсе</li>
+            <li>[Theory] 1.2 Как проходить курс?</li>
         </ul>
 </details>
 <details>
-    <summary>[] 02. Ввод-вывод данных</summary>
+    <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a></summary>
         <ul>
-            <li>[] 2.1 Введение. Знакомство с Python</li>
-            <li>[] 2.2 Команды print и input</li>
-            <li>[] 2.3 Параметры sep и end</li>
-            <li>[] 2.4 Целочисленная арифметика. Часть 1</li>
-            <li>[] 2.5 Целочисленная арифметика. Часть 2</li>
+            <li>[Tests] 2.1 Введение. Знакомство с Python</li>
+            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.2%20Команды%20print%20и%20input.ipynb">[Done!] 2.2 Команды print и input</a></li>
+            <li>[Done!] 2.3 Параметры sep и end</li>
+            <li>[Done!] 2.4 Целочисленная арифметика. Часть 1</li>
+            <li>[Done!] 2.5 Целочисленная арифметика. Часть 2</li>
         </ul>
 </details>
 <details>
-    <summary>[] 03. Итоговая работа на ввод-вывод данных</summary>
+    <summary>[Done!] 03. Итоговая работа на ввод-вывод данных</summary>
         <ul>
-            <li>[] 3.1 Часть 1</li>
-            <li>[] 3.2 Часть 2</li>
+            <li>[Done!] 3.1 Часть 1</li>
+            <li>[Done!] 3.2 Часть 2</li>
         </ul>
 </details>
 <details>
-    <summary>[] 04. Условный оператор</summary>
+    <summary>[Done!] 04. Условный оператор</summary>
         <ul>
-            <li>[] 4.1 Выбор из двух</li>
-            <li>[] 4.2 Логические операции</li>
-            <li>[] 4.3 Вложенные и каскадные условия</li>
+            <li>[Done!] 4.1 Выбор из двух</li>
+            <li>[Done!] 4.2 Логические операции</li>
+            <li>[Done!] 4.3 Вложенные и каскадные условия</li>
         </ul>
 </details>
 <details>
-    <summary>[] 05. Итоговая работа на условный оператор</summary>
+    <summary>[Done!] 05. Итоговая работа на условный оператор</summary>
         <ul>
-            <li>[] 5.1 Задачи на программирование</li>
+            <li>[Done!] 5.1 Задачи на программирование</li>
         </ul>
 </details>
 <details>
-    <summary>[] 06. Типы данных</summary>
+    <summary>[Done!] 06. Типы данных</summary>
         <ul>
             <li>[] 6.1 Числовые типы данных: int, float</li>
             <li>[] 6.2 Строковый тип данных</li>
@@ -61,7 +61,7 @@
         </ul>
 </details>
 <details>
-    <summary>[] 07. Циклы for и while</summary>
+    <summary>[Done!] 07. Циклы for и while</summary>
         <ul>
             <li>[] 7.1 Цикл for</li>
             <li>[] 7.2 Цикл for: функция range</li>
@@ -75,14 +75,14 @@
         </ul>
 </details>
 <details>
-    <summary>[] 08. Итоговая работа на циклы</summary>
+    <summary>[Done!] 08. Итоговая работа на циклы</summary>
         <ul>
             <li>[] 8.1 Часть 1</li>
             <li>[] 8.2 Часть 2</li>
         </ul>
 </details>
 <details>
-    <summary>[] 09. Строковый тип данных</summary>
+    <summary>[Done!] 09. Строковый тип данных</summary>
         <ul>
             <li>[] 9.1 Индексация</li>
             <li>[] 9.2 Срезы</li>
@@ -93,14 +93,14 @@
         </ul>
 </details>
 <details>
-    <summary>[] 10. Итоговая работа на строки</summary>
+    <summary>[Done!] 10. Итоговая работа на строки</summary>
         <ul>
             <li>[] 10.1 Часть 1</li>
             <li>[] 10.2 Часть 2</li>
         </ul>
 </details>
 <details>
-    <summary>[] 11. Списки</summary>
+    <summary>[Done!] 11. Списки</summary>
         <ul>
             <li>[] 11.1 Введение в списки</li>
             <li>[] 11.2 Основы работы со списками</li>
@@ -113,14 +113,14 @@
         </ul>
 </details>
 <details>
-    <summary>[] 12. Итоговая работа на списки</summary>
+    <summary>[Done!] 12. Итоговая работа на списки</summary>
         <ul>
             <li>[] 12.1 Часть 1</li>
             <li>[] 12.2 Часть 2</li>
         </ul>
 </details>
 <details>
-    <summary>[] 13. Функции</summary>
+    <summary>[Done!] 13. Функции</summary>
         <ul>
             <li>[] 13.1 Функции без параметров</li>
             <li>[] 13.2 Функции с параметрами</li>
@@ -131,13 +131,13 @@
         </ul>
 </details>
 <details>
-    <summary>[] 14. Итоговая работа на функции</summary>
+    <summary>[Done!] 14. Итоговая работа на функции</summary>
         <ul>
             <li>[] 14.1 Задачи на программирование</li>
         </ul>
 </details>
 <details>
-    <summary>[] 15. Работа над мини-проектом</summary>
+    <summary>[Done!] 15. Работа над мини-проектом</summary>
         <ul>
             <li>[] 15.1 Модуль random</li>
             <li>[] 15.2 Числовая угадайка</li>
@@ -149,7 +149,7 @@
         </ul>
 </details>
 <details>
-    <summary>[] 16. Заключение</summary>
+    <summary>[Done!] 16. Заключение</summary>
         <ul>
             <li>[] 16.1 Заключительный урок</li>
             <li>[] 16.2 О команде курса</li>
