@@ -1,8 +1,13 @@
 # About this repo:
-pass
+Hello, traveler! >)
+I use this repo to save my (code-)solutions from various courses. And also for a train the skills of working with git.
 
 ## WARNING!!!
-pass
+THIS IS NOT THE ANSWER-REPO!!!
+___
+If you came here looking for an answers, perhaps, you may find it... but I strongly recommend to you solve your tasks on your own. This is the only way you will gain the experience and knowledge you need!
+___
+Good luck and have a nice day to you!
 
 # Plans for a self-education:
 ## Python
@@ -14,7 +19,8 @@ pass
     * [...] 03. Контест 2
     * [...] 04. Контест 3
     * [available on 19.12.2022] 05. Новогодний контест 2022 г
-  
+
+
   * [In process...] 01. Поколение Python - Курс для начинающих
     * [Done!] 01. Общая информация о курсе
     * [Done!] 02. Ввод-вывод данных
@@ -32,6 +38,7 @@ pass
     * [...] 14. Итоговая работа на функции
     * [...] 16. Заключение
   
+
   * [In process...] 02. Поколение Python - Курс дял продвинутых
     * [...] 01. Общая информация о курсе
     * [...] 02. Повторяем основные конструкции языка Python 🐍
@@ -52,6 +59,8 @@ pass
     * [...] 17. Работа с файлами
     * [...] 18. Итоговая работа на файлы
     * [...] 19. Заключение
+
+
   * [In process...] 03. Поколение Python - Курс для профессионалов
     * [...] 01. О курсе
     * [...] 02. Повторяем основные конструкции языка Python 🐍
@@ -66,8 +75,10 @@ pass
     * [...] 11. Регулярные выражения
     * [...] 12. Заключение
 
+
   * [Course Not Yet Ready] 04. Поколение Python - Курс по ООП
-  
+
+
 * Сергей Балакирев
   * [In process...] Добрый, добрый Python
     * [Done!] 01. Первое знакомство
@@ -80,18 +91,21 @@ pass
     * [...] 09. Генераторы. Некоторые полезные функции
     * [...] 10. Движемся дальше, вглубь
 
+
   * [...] 01. Добрый, добрый Python ООП
     * [...] 01. Первые шаги в ООП
     * [...] 02. Режимы доступа, свойства и дескрипторы
     * [...] 03. Магические методы классов
     * [...] 04. Наследование и полиморфизм
     * [...] 05. Исключения и менеджеры контекста
-  
+
+
 * Bioinformatics Institute
   * [...] 01. Программирование на Python
   * [...] 02. Python: основы и применение
   * [...] Введение в Data Science и машинное обучение
-  
+
+
 ## Math
 ### Stepik.org
 * Bioinformatics Institute
@@ -99,14 +113,17 @@ pass
   * [...] Основы статистики. Часть 2
   * [...] Основы статистики. Часть 3
 
+
 ### Practicum.yandex.ru
 * [...] Основы математики для цифровых профессий
 * [...] Математика для анализа данных
+
 
 ## SQL
 ### Stepik.org
 * ДВФУ
   * [...] Интерактивный тренажер по SQL
+
 
 ## BI
 ### datayoga.ru
@@ -115,5 +132,6 @@ pass
 * [...] Tableau - Продвинутый
 * [...] Qlik - Базовый
 * [...] Qlik - Внедрение
+
 
 ## Other
