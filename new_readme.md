@@ -91,7 +91,7 @@ Good luck and have a nice day to you!
                 <li>...</li>
             </ul>
     </details>
-
+___
 * Сергей Балакирев
     <details>
         <summary>[In process...] 01. Добрый, добрый Python</summary>
@@ -117,7 +117,7 @@ Good luck and have a nice day to you!
                 <li>[...] 05. Исключения и менеджеры контекста</li>
             </ul>
     </details>
-
+___
 * Bioinformatics Institute
     <details>
         <summary>[...] 01. Программирование на Python</summary>
@@ -148,7 +148,7 @@ Good luck and have a nice day to you!
                 <li>[...] 04. Stepik ML contest</li>
             </ul>
     </details>
-
+___
 * МФТИ Центр развития ИТ-образования
     <details>
         <summary>[...] Python для искусственного интеллекта</summary>
@@ -161,6 +161,7 @@ Good luck and have a nice day to you!
                 <li>[...] 06. Библиотека numpy, pandas, matplotlib</li>
             </ul>
     </details>
+  ___
 * ТюмГУ
     <details>
         <summary>[...] Анализ данных (Введение в Python и обработку таблиц)</summary>
