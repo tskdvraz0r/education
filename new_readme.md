@@ -161,7 +161,7 @@ ___
                 <li>[...] 06. Библиотека numpy, pandas, matplotlib</li>
             </ul>
     </details>
-  ___
+___
 * ТюмГУ
     <details>
         <summary>[...] Анализ данных (Введение в Python и обработку таблиц)</summary>
@@ -202,7 +202,6 @@ ___
                 <li>[...] 03. Введение в bootstrap</li>
             </ul>
     </details>
-
 
 ### Practicum.yandex.ru
 * [...] Основы математики для цифровых профессий
