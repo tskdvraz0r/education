@@ -14,44 +14,24 @@
 Ваша поддержка поможет нам и дальше делать IT-образование доступнее! <br>
 
 # Модули курса:
-<details>
-    <summary>[Done!] 01. Общая информация о курсе</summary>
-        <ul>
-            <li>[Theory] 1.1 Общая информация о курсе</li>
-            <li>[Theory] 1.2 Как проходить курс?</li>
-        </ul>
-</details>
-<details>
-    <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a></summary>
-        <ul>
-            <li>[Tests] 2.1 Введение. Знакомство с Python</li>
-            <li><a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.2%20Команды%20print%20и%20input.ipynb">[Done!] 2.2 Команды print и input</a></li>
-            <li>[Done!] 2.3 Параметры sep и end</li>
-            <li>[Done!] 2.4 Целочисленная арифметика. Часть 1</li>
-            <li>[Done!] 2.5 Целочисленная арифметика. Часть 2</li>
-        </ul>
-</details>
-<details>
-    <summary>[Done!] 03. Итоговая работа на ввод-вывод данных</summary>
-        <ul>
-            <li>[Done!] 3.1 Часть 1</li>
-            <li>[Done!] 3.2 Часть 2</li>
-        </ul>
-</details>
-<details>
-    <summary>[Done!] 04. Условный оператор</summary>
-        <ul>
-            <li>[Done!] 4.1 Выбор из двух</li>
-            <li>[Done!] 4.2 Логические операции</li>
-            <li>[Done!] 4.3 Вложенные и каскадные условия</li>
-        </ul>
-</details>
-<details>
-    <summary>[Done!] 05. Итоговая работа на условный оператор</summary>
-        <ul>
-            <li>[Done!] 5.1 Задачи на программирование</li>
-        </ul>
-</details>
+* [Done!][theory] 01. Общая информация о курсе</summary>
+  * [Done!][theory] 1.1 Общая информация о курсе
+  * [Done!][theory] 1.2 Как проходить курс?
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a>
+  * [Done!][tests] 2.1 Введение. Знакомство с Python
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.2%20Команды%20print%20и%20input.ipynb">[Done!] 2.2 Команды print и input</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.3%20Параметры%20sep%20и%20end.ipynb">[Done!] 2.3 Параметры sep и end</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.4%20Целочисленная%20арифметика.%20Часть%201.ipynb">[Done!] 2.4 Целочисленная арифметика. Часть 1</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных/2.5%20Целочисленная%20арифметика.%20Часть%202.ipynb">[Done!] 2.5 Целочисленная арифметика. Часть 2</a>
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/03.%20Итоговая%20работа%20на%20ввод-вывод%20данных">[Done!] 03. Итоговая работа на ввод-вывод данных</a>
+  * [Done!][tests] 3.1 Часть 1
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/03.%20Итоговая%20работа%20на%20ввод-вывод%20данных/3.2%20Часть%202.ipynb">[Done!] 3.2 Часть 2</a>
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор">[Done!] 04. Условный оператор</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор/4.1%20Выбор%20из%20двух.ipynb">[Done!] 4.1 Выбор из дву</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор/4.2%20Логические%20операции.ipynb">[Done!] 4.2 Логические операции</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор/4.3%20Вложенные%20и%20каскадные%20условия.ipynb">[Done!] 4.3 Вложенные и каскадные условия</a>
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/05.%20Итоговая%20работа%20на%20условный%20оператор">[Done!] 05. Итоговая работа на условный оператор</a>
+  * [Done!] 5.1 Задачи на программирование
 <details>
     <summary>[Done!] 06. Типы данных</summary>
         <ul>
