@@ -24,7 +24,7 @@ Good luck and have a nice day to you!
             </ul>
     </details>
     <details>
-        <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих">[In process...] 01. Поколение Python - Курс для начинающих</a>></summary>
+        <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих">[In process...] 01. Поколение Python - Курс для начинающих</a></summary>
             <ul>
                 <li>[Done!] 01. Общая информация о курсе></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a></li>
