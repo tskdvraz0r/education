@@ -29,8 +29,8 @@ Good luck and have a nice day to you!
                 <li>[Done!] 01. Общая информация о курсе></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/03.%20Итоговая%20работа%20на%20ввод-вывод%20данных">[Done!] 03. Итоговая работа на ввод-вывод данных</a></li>
-                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор">[...] 04. Условный оператор</a></li>
-                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/05.%20Итоговая%20работа%20на%20условный%20оператор">[...] 05. Итоговая работа на условный оператор</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор">[Done!] 04. Условный оператор</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/05.%20Итоговая%20работа%20на%20условный%20оператор">[Done!] 05. Итоговая работа на условный оператор</a></li>
                 <li>[...] 06. Типы данных</li>
                 <li>[...] 07. Циклы for и while</li>
                 <li>[...] 08. Итоговая работа на циклы</li>
