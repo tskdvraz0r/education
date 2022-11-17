@@ -12,7 +12,7 @@ Good luck and have a nice day to you!
 # Plans for a self-education:
 ## Python
 ### Stepik.org
-* BEEGEEK
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK">BEEGEEK</a>
     <details>
         <summary>[...] 00. Поколение Python - Контесты по программированию</summary>
             <ul>
@@ -24,13 +24,13 @@ Good luck and have a nice day to you!
             </ul>
     </details>
     <details>
-        <summary>[In process...] 01. Поколение Python - Курс для начинающих</summary>
+        <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих">[In process...] 01. Поколение Python - Курс для начинающих</a>></summary>
             <ul>
-                <li>[Done!] 01. Общая информация о курсе</li>
-                <li>[Done!] 02. Ввод-вывод данных</li>
-                <li>[Done!] 03. Итоговая работа на ввод-вывод данных</li>
-                <li>[...] 04. Условный оператор</li>
-                <li>[...] 05. Итоговая работа на условный оператор</li>
+                <li>[Done!] 01. Общая информация о курсе></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/03.%20Итоговая%20работа%20на%20ввод-вывод%20данных">[Done!] 03. Итоговая работа на ввод-вывод данных</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор">[...] 04. Условный оператор</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/05.%20Итоговая%20работа%20на%20условный%20оператор">[...] 05. Итоговая работа на условный оператор</a></li>
                 <li>[...] 06. Типы данных</li>
                 <li>[...] 07. Циклы for и while</li>
                 <li>[...] 08. Итоговая работа на циклы</li>
@@ -92,16 +92,16 @@ Good luck and have a nice day to you!
             </ul>
     </details>
 ___
-* Сергей Балакирев
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev">Сергей Балакирев</a>
     <details>
-        <summary>[In process...] 01. Добрый, добрый Python</summary>
+        <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python">[In process...] 01. Добрый, добрый Python</a></summary>
             <ul>
-                <li>[Done!] 01. Первое знакомство</li>
-                <li>[Done!] 02. Мои первые шаги в Python</li>
-                <li>[Done!] 03. Постижение строк и списков</li>
-                <li>[Done!] 04. Условные операторы</li>
-                <li>[Done!] 05. Циклы, итераторы и генераторы списков</li>
-                <li>[In process...] 06. Словари, кортежи и множества</li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/01.%20Первое%20знакомство">[Done!] 01. Первое знакомство</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/02.%20Мои%20первые%20шаги%20в%20Python">[Done!] 02. Мои первые шаги в Python</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/03.%20Постижение%20строк%20и%20списков">[Done!] 03. Постижение строк и списков</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/04.%20Условные%20операторы">[Done!] 04. Условные операторы</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/05.%20Циклы%2C%20итераторы%20и%20генераторы%20списков">[Done!] 05. Циклы, итераторы и генераторы списков</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/Sergey%20Balakirev/01.%20Добрый%2C%20добрый%20Python/06.%20Словари%2C%20кортежи%20и%20множества">[In process...] 06. Словари, кортежи и множества</a></li>
                 <li>[...] 08. Модули и пакеты. Работа с файлами</li>
                 <li>[...] 09. Генераторы. Некоторые полезные функции</li>
                 <li>[...] 10. Движемся дальше, вглубь</li>
@@ -149,11 +149,11 @@ ___
             </ul>
     </details>
 ___
-* МФТИ Центр развития ИТ-образования
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/МФТИ%20Центр%20развития%20ИТ-образования">МФТИ Центр развития ИТ-образования</a>
     <details>
-        <summary>[...] Python для искусственного интеллекта</summary>
+        <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/МФТИ%20Центр%20развития%20ИТ-образования/Python%20для%20искусственного%20интеллекта">[In process...] Python для искусственного интеллекта</a></summary>
             <ul>
-                <li>[...] 01. Типы данных и операции с ними. Условный оператор</li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/МФТИ%20Центр%20развития%20ИТ-образования/Python%20для%20искусственного%20интеллекта/01.%20Типы%20данных%20и%20операции%20с%20ними.%20Условный%20оператор">[...] 01. Типы данных и операции с ними. Условный оператор</a></li>
                 <li>[...] 02. Строки. Контейнеры. Методы контейнеров</li>
                 <li>[...] 03. Циклы, множества и словари</li>
                 <li>[...] 04. Функции и классы</li>
@@ -169,8 +169,8 @@ ___
                 <li>[Done!] 01. Введение</li>
                 <li>[Done!] 02. Основы обработки таблиц с данными на языке Python</li>
                 <li>[Done!] 03. Базовые операции с данными на языке Python</li>
-                <li>[In process...] 04. Методы машинного обучения: базовый уровень</li>
-                <li>[...] 05. Методы машинного обучения: продвинутый уровень</li>
+                <li>[Done!] 04. Методы машинного обучения: базовый уровень</li>
+                <li>[In process...] 05. Методы машинного обучения: продвинутый уровень</li>
                 <li>[Files] 06. Ресурсы</li>
             </ul>
     </details>
