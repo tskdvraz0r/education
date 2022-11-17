@@ -26,7 +26,7 @@ Good luck and have a nice day to you!
     <details>
         <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих">[In process...] 01. Поколение Python - Курс для начинающих</a></summary>
             <ul>
-                <li>[Done!] 01. Общая информация о курсе></li>
+                <li>[Done!] 01. Общая информация о курсе</li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/03.%20Итоговая%20работа%20на%20ввод-вывод%20данных">[Done!] 03. Итоговая работа на ввод-вывод данных</a></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор">[Done!] 04. Условный оператор</a></li>
@@ -45,7 +45,7 @@ Good luck and have a nice day to you!
             </ul>
     </details>
     <details>
-        <summary>[...] 02. Поколение Python - Курс дял продвинутых</summary>
+        <summary>[...] 02. Поколение Python - Курс для продвинутых</summary>
             <ul>
                 <li>[...] 01. Общая информация о курсе</li>
                 <li>[...] 02. Повторяем основные конструкции языка Python 🐍</li>
