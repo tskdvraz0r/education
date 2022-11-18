@@ -32,9 +32,9 @@
   * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор/4.3%20Вложенные%20и%20каскадные%20условия.ipynb">[Done!] 4.3 Вложенные и каскадные условия</a>
 * <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/05.%20Итоговая%20работа%20на%20условный%20оператор">[Done!] 05. Итоговая работа на условный оператор</a>
   * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/05.%20Итоговая%20работа%20на%20условный%20оператор/5.1%20Задачи%20на%20программирование.ipynb">[Done!] 5.1 Задачи на программирование</a>
-* [Done!] 06. Типы данных
-  * [...] 6.1 Числовые типы данных: int, float
-  * [...] 6.2 Строковый тип данных
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных">[Done!] 06. Типы данных</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных/6.1%20Числовые%20типы%20данных:%20int%2C%20float.ipynb">[Done!] 6.1 Числовые типы данных: int, float</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных/6.2%20Строковый%20тип%20данных.ipynb">[Done!] 6.2 Строковый тип данных</a>
   * [...] 6.3 Модуль math
 <details>
     <summary>[Done!] 07. Циклы for и while</summary>
