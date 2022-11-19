@@ -35,7 +35,7 @@
 * <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных">[Done!] 06. Типы данных</a>
   * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных/6.1%20Числовые%20типы%20данных:%20int%2C%20float.ipynb">[Done!] 6.1 Числовые типы данных: int, float</a>
   * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных/6.2%20Строковый%20тип%20данных.ipynb">[Done!] 6.2 Строковый тип данных</a>
-  * [...] 6.3 Модуль math
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных/6.3%20Модуль%20math.ipynb">[Done!] 6.3 Модуль math</a>
 <details>
     <summary>[Done!] 07. Циклы for и while</summary>
         <ul>
