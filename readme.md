@@ -32,7 +32,7 @@ Good luck and have a nice day to you!
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/04.%20Условный%20оператор">[Done!] 04. Условный оператор</a></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/05.%20Итоговая%20работа%20на%20условный%20оператор">[Done!] 05. Итоговая работа на условный оператор</a></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных">[Done!] 06. Типы данных</a></li>
-                <li>[In process...] 07. Циклы for и while</li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while">[In process...] 07. Циклы for и while</a></li>
                 <li>[...] 08. Итоговая работа на циклы</li>
                 <li>[...] 09. Строковый тип данных</li>
                 <li>[...] 10. Итоговая работа на строки</li>
