@@ -44,7 +44,7 @@
 
 * <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while">[Done!] 07. Циклы for и while</a>
   * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.1%20Цикл%20for.ipynb">[Done!] 7.1 Цикл for</a>
-  * [...] 7.2 Цикл for: функция range
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.2%20Цикл%20for-%20функция%20range.ipynb">[Done!] 7.2 Цикл for: функция range</a>
   * [...] 7.3 Частые сценарии
   * [...] 7.4 Цикл while
   * [...] 7.5 Цикл while: обработка цифр числа
