@@ -33,15 +33,15 @@ Good luck and have a nice day to you!
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/05.%20Итоговая%20работа%20на%20условный%20оператор">[Done!] 05. Итоговая работа на условный оператор</a></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/06.%20Типы%20данных">[Done!] 06. Типы данных</a></li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while">[In process...] 07. Циклы for и while</a></li>
-                <li>[...] 08. Итоговая работа на циклы</li>
-                <li>[...] 09. Строковый тип данных</li>
-                <li>[...] 10. Итоговая работа на строки</li>
-                <li>[...] 11. Списки</li>
-                <li>[...] 12. Итоговая работа на списки</li>
-                <li>[...] 13. Функции</li>
-                <li>[...] 14. Итоговая работа на функции</li>
-                <li>[...] 15. Работа над мини-проектом</li>
-                <li>[...] 16. Заключение</li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/08.%20Итоговая%20работа%20на%20циклы">[Done!] 08. Итоговая работа на циклы</a>></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/09.%20Строковый%20тип%20данных">[Done!] 09. Строковый тип данных</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/10.%20Итоговая%20работа%20на%20строки">[Done!] 10. Итоговая работа на строки</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки">[Done!] 11. Списки</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/12.%20Итоговая%20работа%20на%20списки">[Done!] 12. Итоговая работа на списки</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/13.%20Функции">[Done!] 13. Функции</a></li>
+                <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/14.%20Итоговая%20работа%20на%20функции">[Done!] 14. Итоговая работа на функции</a></li>
+                <li>[In process..] 15. Работа над мини-проектом</li>
+                <li>[Done!] 16. Заключение</li>
             </ul>
     </details>
     <details>
