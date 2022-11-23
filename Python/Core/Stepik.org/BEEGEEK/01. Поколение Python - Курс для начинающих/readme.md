@@ -45,57 +45,57 @@
 * <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while">[Done!] 07. Циклы for и while</a>
   * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.1%20Цикл%20for.ipynb">[Done!] 7.1 Цикл for</a>
   * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.2%20Цикл%20for-%20функция%20range.ipynb">[Done!] 7.2 Цикл for: функция range</a>
-  * [...] 7.3 Частые сценарии
-  * [...] 7.4 Цикл while
-  * [...] 7.5 Цикл while: обработка цифр числа
-  * [...] 7.6 break, continue и else
-  * [...] 7.7 Поиск ошибок и ревью кода
-  * [...] 7.8 Вложенные циклы. Часть 1
-  * [...] 7.9 Вложенные циклы. Часть 2
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.3%20Частые%20сценарии.ipynb">[Done!] 7.3 Частые сценарии</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.4%20Цикл%20while.ipynb">[Done!] 7.4 Цикл while</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.5%20Цикл%20while:%20обработка%20цифр%20числа.ipynb">[Done!] 7.5 Цикл while: обработка цифр числа</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.6%20break%2C%20continue%20и%20else.ipynb">[Done!] 7.6 break, continue и else</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.7%20Поиск%20ошибок%20и%20ревью%20кода.ipynb">[Done!] 7.7 Поиск ошибок и ревью кода</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.8%20Вложенные%20циклы.%20Часть%201.ipynb">[Done!] 7.8 Вложенные циклы. Часть 1</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/07.%20Циклы%20for%20и%20while/7.9%20Вложенные%20циклы.%20Часть%202.ipynb">[Done!] 7.9 Вложенные циклы. Часть 2</a>
 
-* [Done!] 08. Итоговая работа на циклы
-  * [...] 8.1 Часть 1
-  * [...] 8.2 Часть 2
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/08.%20Итоговая%20работа%20на%20циклы">[Done!] 08. Итоговая работа на циклы</a>
+  * [Done!][tests] 8.1 Часть 1
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/08.%20Итоговая%20работа%20на%20циклы/8.2%20Часть%202.ipynb">[Done!] 8.2 Часть 2</a>
 
-* [Done!] 09. Строковый тип данных
-  * [...] 9.1 Индексация
-  * [...] 9.2 Срезы
-  * [...] 9.3 Методы строк. Часть 1
-  * [...] 9.4 Методы строк. Часть 2
-  * [...] 9.5 Методы строк. Часть 3
-  * [...] 9.6 Строки в памяти компьютера, таблица символов Unicode
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/09.%20Строковый%20тип%20данных">[Done!] 09. Строковый тип данных</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/09.%20Строковый%20тип%20данных/9.1%20Индексация.ipynb">[Done!] 9.1 Индексация</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/09.%20Строковый%20тип%20данных/9.2%20Срезы.ipynb">[Done!] 9.2 Срезы</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/09.%20Строковый%20тип%20данных/9.3%20Методы%20строк.%20Часть%201.ipynb">[Done!] 9.3 Методы строк. Часть 1</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/09.%20Строковый%20тип%20данных/9.4%20Методы%20строк.%20Часть%202.ipynb">[Done!] 9.4 Методы строк. Часть 2</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/09.%20Строковый%20тип%20данных/9.5%20Методы%20строк.%20Часть%203.ipynb">[Done!] 9.5 Методы строк. Часть 3</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/09.%20Строковый%20тип%20данных/9.6%20Строки%20в%20памяти%20компьютера%2C%20таблица%20символов%20Unicode.ipynb">[Done!] 9.6 Строки в памяти компьютера, таблица символов Unicode</a>
 
-* [Done!] 10. Итоговая работа на строки
-  * [...] 10.1 Часть 1
-  * [...] 10.2 Часть 2
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/10.%20Итоговая%20работа%20на%20строки">[Done!] 10. Итоговая работа на строки</a>
+  * [Done!][tests] 10.1 Часть 1
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/10.%20Итоговая%20работа%20на%20строки/10.2%20Часть%202.ipynb">[Done!] 10.2 Часть 2</a>
 
-* [Done!] 11. Списки
-  * [...] 11.1 Введение в списки
-  * [...] 11.2 Основы работы со списками
-  * [...] 11.3 Методы списков. Часть 1
-  * [...] 11.4 Вывод элементов списка
-  * [...] 11.5 Методы строк: , join
-  * [...] 11.6 Методы списков. Часть 2
-  * [...] 11.7 Списочные выражения
-  * [...] 11.8 Сортировка списков
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки">[Done!] 11. Списки</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки/11.1%20Введение%20в%20списки.ipynb">[Done!] 11.1 Введение в списки</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки/11.2%20Основы%20работы%20со%20списками.ipynb">[Done!] 11.2 Основы работы со списками</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки/11.3%20Методы%20списков.%20Часть%201.ipynb">[Done!] 11.3 Методы списков. Часть 1</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки/11.4%20Вывод%20элементов%20списка.ipynb">[Done!] 11.4 Вывод элементов списка</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки/11.5%20Методы%20строк:%20split%2C%20join.ipynb">[Done!] 11.5 Методы строк: , join</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки/11.6%20Методы%20списков.%20Часть%202.ipynb">[Done!] 11.6 Методы списков. Часть 2</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки/11.7%20Списочные%20выражения.ipynb">[Done!] 11.7 Списочные выражения</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/11.%20Списки/11.8%20Сортировка%20списков.ipynb">[Done!] 11.8 Сортировка списков</a>
 
-* [Done!] 12. Итоговая работа на списки
-  * [...] 12.1 Часть 1
-  * [...] 12.2 Часть 2 
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/12.%20Итоговая%20работа%20на%20списки">[Done!] 12. Итоговая работа на списки</a>
+  * [Done!][tests] 12.1 Часть 1
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/12.%20Итоговая%20работа%20на%20списки/12.2%20Часть%202.ipynb">[Done!] 12.2 Часть 2</a> 
 
-* [Done!] 13. Функции
-  * [...] 13.1 Функции без параметров
-  * [...] 13.2 Функции с параметрами
-  * [...] 13.3 Локальные и глобальные переменные
-  * [...] 13.4 Функции с возвратом значения. Часть 1
-  * [...] 13.5 Функции с возвратом значения. Часть 2
-  * [...] 13.6 Функции с возвратом значения. Часть 3
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/13.%20Функции">[Done!] 13. Функции</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/13.%20Функции/13.1%20Функции%20без%20параметров.ipynb">[Done!] 13.1 Функции без параметров</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/13.%20Функции/13.2%20Функции%20с%20параметрами.ipynb">[Done!] 13.2 Функции с параметрами</a>
+  * [Done!][tests] 13.3 Локальные и глобальные переменные
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/13.%20Функции/13.4%20Функции%20с%20возвратом%20значения.%20Часть%201.ipynb">[Done!] 13.4 Функции с возвратом значения. Часть 1</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/13.%20Функции/13.5%20Функции%20с%20возвратом%20значения.%20Часть%202.ipynb">[Done!] 13.5 Функции с возвратом значения. Часть 2</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/13.%20Функции/13.6%20Функции%20с%20возвратом%20значения.%20Часть%203.ipynb">[Done!] 13.6 Функции с возвратом значения. Часть 3</a>
 
-* [Done!] 14. Итоговая работа на функции
-  * [...] 14.1 Задачи на программирование
+* <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/14.%20Итоговая%20работа%20на%20функции">[Done!] 14. Итоговая работа на функции</a>
+  * <a href="https://github.com/tskdvraz0r/Education/blob/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/14.%20Итоговая%20работа%20на%20функции/14.1%20Задачи%20на%20программирование.ipynb">[Done!] 14.1 Задачи на программирование</a>
 
-* [Done!] 15. Работа над мини-проектом
-  * [...] 15.1 Модуль random
+* [In process...] 15. Работа над мини-проектом
+  * [In process...] 15.1 Модуль random
   * [...] 15.2 Числовая угадайка
   * [...] 15.3 Магический шар 8
   * [...] 15.4 Генератор безопасных паролей
@@ -104,8 +104,8 @@
   * [...] 15.7 Угадайка слов 
 
 * [Done!] 16. Заключение
-  * [...] 16.1 Заключительный урок
-  * [...] 16.2 О команде курса
+  * [Done!] 16.1 Заключительный урок
+  * [Done!] 16.2 О команде курса
 
 # Преподаватели:
 - Тимур 👨‍🏫 Гуев
