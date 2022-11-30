@@ -10,6 +10,9 @@ ___
 Good luck and have a nice day to you!
 
 # Plans for a self-education:
+<details>
+    <summary>Hard-skils:</summary>
+
 ## Python
 ### Stepik.org
 * <a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK">BEEGEEK</a>
@@ -451,7 +454,6 @@ ___
             </ul>
     </details>
 
-
 ## SQL
 ### Stepik.org
 * ДВФУ
@@ -497,8 +499,11 @@ ___
             <li>[...] </li>
         </ul>
 </details>
+</details>
 
-## Other
+<details>
+    <summary>Soft-skills:</summary>
+
 ### Stepik.org
 * Центр подготовки руководителей и команд ЦТ ВШГУ РАНХиГС
   <details>
@@ -591,3 +596,14 @@ ___
               <li>[Done!] 07. Резюме</li>
           </ul>
   </details>
+</details>
+
+<details>
+    <summary>Books:</summary>
+
+* [Reading] O'REILLY - Bill Lubanovich "Introducing Python. Modern Computing in Simple Packages" 2nd edition, ISBN 978-5-4461-1639-3
+* [...] O'REILLY - Peter Bruce, Andrew Bruce, and Peter Gedeck "Practical Statistics for Data Scientists" 2nd edition, ISBN 978-5-9775-6705-3 
+* [...] O'REILLY - Joel Grus "Data Science from Scratch. First Principles with Python" 2nd edition, ISBN 978-5-9775-6731-2
+* [...] O'REILLY - Valliappa Lakshmanan, Sara Robinson, and Michael Munn "Machine Learning Desing Patterns. Solutions to Common Challenges in Data. Preparation, Model Building, and MLOps", ISBN 978-5-9775-6797-8
+
+</details>
