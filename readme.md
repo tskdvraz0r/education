@@ -24,7 +24,8 @@ Good luck and have a nice day to you!
             </ul>
     </details>
     <details>
-        <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих">[In process...] 01. Поколение Python - Курс для начинающих</a></summary>
+        <summary><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих">[Done!][Certificate] 01. Поколение Python - Курс для начинающих</a></summary>
+            <img src="https://stepik.org/certificate/9600040c96646c3d26ccd39458682074dda745b8.png?resolution=low" alt="Certificate">
             <ul>
                 <li>[Done!] 01. Общая информация о курсе</li>
                 <li><a href="https://github.com/tskdvraz0r/Education/tree/main/Python/Core/Stepik.org/BEEGEEK/01.%20Поколение%20Python%20-%20Курс%20для%20начинающих/02.%20Ввод-вывод%20данных">[Done!] 02. Ввод-вывод данных</a></li>
@@ -469,32 +470,124 @@ ___
 <details>
     <summary>[...] Yandex DataLens - Базовый</summary>
         <ul>
-            <li>[...]</li>
+            <li>[...] </li>
         </ul>
 </details>
 <details>
     <summary>[...] Tableau - Базовый</summary>
         <ul>
-            <li>[...]</li>
+            <li>[...] </li>
         </ul>
 </details>
 <details>
     <summary>[...] Tableau - Продвинутый</summary>
         <ul>
-            <li>[...]</li>
+            <li>[...] </li>
         </ul>
 </details>
 <details>
     <summary>[...] Qlik - Базовый</summary>
         <ul>
-            <li>[...]</li>
+            <li>[...] </li>
         </ul>
 </details>
 <details>
     <summary>[...] Qlik - Внедрение</summary>
         <ul>
-            <li>[...]</li>
+            <li>[...] </li>
         </ul>
 </details>
 
 ## Other
+### Stepik.org
+* Центр подготовки руководителей и команд ЦТ ВШГУ РАНХиГС
+  <details>
+      <summary>[Done!][Certificate] Цифровая трансформация. Быстрый старт</summary>
+          <img src="https://stepik.org/certificate/c9eb2eca54fb2b50ce162fcf0e5410c6fd3b3bf4.png?resolution=low" alt="certificate">
+          <ul>
+              <li>[Done!] 01. Введение</li>
+              <li>[Done!] 02. Контекст</li>
+              <li>[Done!] 03. Сквозные технологии</li>
+              <li>[Done!] 04. Данные</li>
+              <li>[Done!] 05. Управление проектом</li>
+              <li>[Done!] 06. Управление процессами</li>
+              <li>[Done!] 07. Управление продуктом</li>
+              <li>[In process...] 08. Культура</li>
+              <li>[In process...] 09. Команда</li>
+              <li>[In process...] 10. Риски</li>
+              <li>[Done!] 11. Итоговый тест</li>
+              <li>[Done!] 12. Заключение</li>
+          </ul>
+  </details>
+  <details>
+      <summary>[...] Эпоха цифрового развития: основы цифровой трансформации</summary>
+          <ul>
+              <li>[...] 01. Открытие программы</li>
+              <li>[...] 02. Введение: цифровая трансформация и цифровая экономика</li>
+              <li>[...] 03. Цифровые технологии и тренды</li>
+              <li>[...] 04. Цифровые платформы</li>
+              <li>[...] 05. Работа с данными</li>
+              <li>[...] 06. Компетенции в эпоху цифровой трансформации</li>
+              <li>[...] 07. Проектное и процессное управление</li>
+              <li>[...] 08. Нормативное регулирование в цифровой экономике</li>
+              <li>[...] 09. Обратная связь</li>
+              <li>[...] 10. Дополнительные материалы</li>
+          </ul>
+  </details>
+  <details>
+      <summary>[...] Основы работы с данными</summary>
+          <ul>
+              <li>[...] 01. Введение</li>
+              <li>[...] 02. Контекст</li>
+              <li>[...] 03. Основные понятия</li>
+              <li>[...] 04. Этапы аналитического проекта</li>
+              <li>[...] 05. Технологии, использующие данные</li>
+              <li>[...] 06. Инфраструктура для работы с данными</li>
+              <li>[...] 07. Управление данными в организации</li>
+              <li>[...] 08. Культура принятия решений на основе данных</li>
+              <li>[...] 09. Команда</li>
+              <li>[...] 10. Риски</li>
+              <li>[...] 11. Заключение</li>
+          </ul>
+  </details>
+
+* МГИМО МИД России
+  <details>
+      <summary>[Done!][Certificate] Теория игр и стратегическое поведение</summary>
+          <img src="https://stepik.org/certificate/e89828c8ad6aff1dc07f73d14fd4ff792c6757da.png?resolution=low" alt="Certificate">
+          <ul>
+              <li>[Done!] 01. Основные понятия теории игр</li>
+              <li>[Done!] 02. Нормальная форма представления игры</li>
+              <li>[Done!] 03. Игра с бесконечным количеством стратегий участника</li>
+              <li>[Done!] 04. Динамические игры с совершенной и несовершенной информацией</li>
+              <li>[Done!] 05. Игры с неполной информацией</li>
+              <li>[Done!] 06. Игры с конечным и бесконечным числом ходов</li>
+              <li>[Done!] 07. Аукционы</li>
+          </ul>
+  </details>
+
+* Иван Нефедьев и Мирослава Бронникова
+  <details>
+      <summary>[Done!][Certificate] Игрофикация. Введение</summary>
+          <img src="https://stepik.org/certificate/8d3fa1aeb8710df4403af665e7fb02cd261b3dba.png?resolution=low" alt="Certificate">
+          <ul>
+              <li>[Done!] 01. Давайте познакомимся</li>
+              <li>[Done!] 02. Подземелье. Чудовища бейджификации</li>
+              <li>[Done!] 03. Выход из Подземелья. Что такое игрофикация на самом деле?</li>
+          </ul>
+  </details>
+
+* Русская Школа Программирования
+  <details>
+      <summary>[Done!][Certificate] Art of soft skills: гибкие навыки для жизни и учебы</summary>
+          <img src="https://stepik.org/certificate/681ad20878f4f331d8cace53670e02e93800392a.png?resolution=low" alt="Certificate">
+          <ul>
+              <li>[Done!] 01. Вводный модуль</li>
+              <li>[Done!] 02. Эмоциональный интеллект</li>
+              <li>[Done!] 03. Развитие команды</li>
+              <li>[Done!] 04. Адаптивность</li>
+              <li>[Done!] 05. Разрешение конфликтов</li>
+              <li>[Done!] 06. Убеждение и самопозиционирование</li>
+              <li>[Done!] 07. Резюме</li>
+          </ul>
+  </details>
