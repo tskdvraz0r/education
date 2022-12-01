@@ -11,7 +11,7 @@ Good luck and have a nice day to you!
 
 # Plans for a self-education:
 <details>
-    <summary>Hard-skils:</summary>
+    <summary>Hard-skills:</summary>
 
 ## Python
 ### Stepik.org
