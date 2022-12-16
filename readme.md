@@ -916,11 +916,11 @@ ___
 
 ## SQL
 ### Stepik.org
-* ДВФУ
+* <a href="https://github.com/tskdvraz0r/education/tree/main/SQL/Stepik.org/ДВФУ">ДВФУ</a>
     <details>
-        <summary>[...] Интерактивный тренажер по SQL</summary>
+        <summary><a href="https://github.com/tskdvraz0r/education/tree/main/SQL/Stepik.org/ДВФУ/Интерактивный%20тренажер%20по%20SQL">[...] Интерактивный тренажер по SQL</a></summary>
             <ul>
-                <li>[Done!] 01. Основы реляционной модели и SQL</li>
+                <li><a href="https://github.com/tskdvraz0r/education/tree/main/SQL/Stepik.org/ДВФУ/Интерактивный%20тренажер%20по%20SQL/01.%20Основы%20реляционной%20модели%20и%20SQL">[Done!] 01. Основы реляционной модели и SQL</a></li>
                 <li>[...] 02. Запросы SQL к связанным таблицам</li>
                 <li>[...] 03. Базы данных и SQL запросы</li>
                 <li>[...] 04. SQL запросы пользователей</li>
