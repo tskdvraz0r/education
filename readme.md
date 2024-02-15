@@ -53,7 +53,7 @@
                 <details>
                 <summary>Сергей Балакирев</summary>
                     <ul>
-                        <li>[_] <a href="https://stepik.org/course/134212/info">Добрый, добрый C / C++</a></li>
+                        <li>[_] <a href="https://stepik.org/course/193691/info">Добрый, добрый C / C++</a></li>
                     </ul>
                 </details>
             </ul>
