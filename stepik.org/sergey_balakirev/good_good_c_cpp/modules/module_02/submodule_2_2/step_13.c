@@ -8,5 +8,6 @@ int main(void)
     double res;
 
     res = sizeof(var);
+    
     return 0;
 }
