@@ -45,6 +45,22 @@
     </ul>
 </details>
 <details>
+<summary>C / C++</summary>
+    <ul>
+        <details>
+        <summary>stepik.org</summary>
+            <ul>
+                <details>
+                <summary>Сергей Балакирев</summary>
+                    <ul>
+                        <li>[_] <a href="https://stepik.org/course/193691/info">Добрый, добрый C / C++</a></li>
+                    </ul>
+                </details>
+            </ul>
+        </details>
+    </ul>
+</details>
+<details>
 <summary>SQL</summary>
     <ul>
     <details>
