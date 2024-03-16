@@ -98,4 +98,36 @@
         </details>
     </ul>
 </details>
+<details>
+<summary>DOCKER</summary>
+    <ul>
+        <details>
+        <summary>stepik.org</summary>
+            <ul>
+                <details>
+                <summary>Rotoro Cloud</summary>
+                    <ul>
+                        <li>[_] <a href="https://stepik.org/course/123300/info">Docker для начинающих + практический опыт</a></li>
+                    </ul>
+                </details>
+            </ul>
+        </details>
+    </ul>
+</details>
+<details>
+<summary>ANSIBLE</summary>
+    <ul>
+        <details>
+        <summary>stepik.org</summary>
+            <ul>
+                <details>
+                <summary>Rotoro Cloud</summary>
+                    <ul>
+                        <li>[_] <a href="https://stepik.org/course/123806/info">Ansible для начинающих + практический опыт</a></li>
+                    </ul>
+                </details>
+            </ul>
+        </details>
+    </ul>
+</details>
 </ul>
