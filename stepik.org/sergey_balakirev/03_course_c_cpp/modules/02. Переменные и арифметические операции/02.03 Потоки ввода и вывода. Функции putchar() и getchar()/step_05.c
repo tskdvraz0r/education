@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(void){
-    char single_char;
+    char value;
+    value = getchar();
 
-    single_char = getchar();
-    putchar(single_char);
+    putchar(value);
     return 0;
 }

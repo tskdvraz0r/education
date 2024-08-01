@@ -1,17 +1,15 @@
 #include <stdio.h>
 
 int main(void){
-    char first_char;
-    char second_char;
-    char third_char;
+    char value_1;
+    char value_2;
+    char value_3;
 
-    first_char = getchar();
-    second_char = getchar();
-    third_char  = getchar();
+    value_1 = getchar();
+    value_2 = getchar();
+    value_3 = getchar();
 
-    putchar(third_char);
-    putchar(second_char);
-    putchar(first_char);
-
-    return 0;
+    putchar(value_1);
+    putchar(value_2);
+    putchar(value_3);
 }
