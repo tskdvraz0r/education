@@ -1,6 +1,7 @@
 # FOLDERS
 .pytest_cache/
 .venv/
+.vscode/
 
 
 
