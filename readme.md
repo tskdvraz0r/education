@@ -14,9 +14,9 @@
 
 
 ### PYTHON ADVANCED
-- [ ] [Многопоточный Python]()
+- [ ] [Многопоточный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python)
 - [ ] [Многопроцесcоный Python]()
-- [ ] [Асинхронный Python]()
+- [ ] [Асинхронный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/03_course_async_python)
 
 
 ### PYTHON PYPI
