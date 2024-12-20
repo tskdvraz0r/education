@@ -31,7 +31,7 @@
 
 ## АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
 #### Сергей Балакирев
-- [ ] [Добрые, добрые структуры данных](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/other/01_data_structures)
+- [ ] [Добрые, добрые структуры данных](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/other/01_course_data_structures)
 
 
 ## БАЗЫ ДАННЫХ И SQL
