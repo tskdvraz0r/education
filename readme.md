@@ -1,28 +1,40 @@
 # ПРОГРАММА ОБУЧЕНИЯ
 ## PYTHON
-### BEEGEEK
+### BASIC
+#### BEEGEEK
 - [ ] [Поколение Python: Курс для начинающих](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/01_course_for_beginners)
 - [ ] [Поколение Python: Курс для продвинутых](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/02_course_for_advanced)
 - [ ] [Поколение Python: Курс для профессионалов](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/03_course_for_professionals)
 - [ ] [Поколение Python: Курс для гуру](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru)
 
-### Сергей Балакирев
+
+#### Сергей Балакирев
 - [ ] [Добрый, добрый Python](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/01_course_python)
 - [ ] [Добрый, добрый Python ООП](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/02_course_python_oop)
 
 
-## PYTHON ADVANCED
+### PYTHON ADVANCED
+- [ ] [Многопоточный Python]()
+- [ ] [Многопроцесcоный Python]()
+- [ ] [Асинхронный Python]()
 
 
-## PYTHON FRAMEWORKS
-### Сергей Балакирев
+### PYTHON PYPI
+- [ ] [Selenium Python]()
+
+
+### PYTHON FRAMEWORKS
+#### Сергей Балакирев
 - [ ] [Добрый, добрый ИИ. Часть 1. Машинное обучение](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/03_course_ai_part_1_ml)
 - [ ] [Добрый, добрый Django](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/04_course_django)
 
 
-# АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
+## АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
+#### Сергей Балакирев
+- [ ] [Добрые, добрые структуры данных]()
 
 
 ## БАЗЫ ДАННЫХ И SQL
-### BEEGEEK
+### BASIC
+#### BEEGEEK
 - [ ] [Поколение SQL: Курс для начинающих](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/sql_generation/01_course_for_beginners)
