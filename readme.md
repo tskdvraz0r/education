@@ -17,7 +17,7 @@
 ## PYTHON FRAMEWORKS
 ### Сергей Балакирев
 - [ ] [Добрый, добрый ИИ. Часть 1. Машинное обучение](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/03_course_ai_part_1_ml)
-- [ ] [Добрый, добрый Django]()
+- [ ] [Добрый, добрый Django](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/04_course_django)
 
 
 # АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
