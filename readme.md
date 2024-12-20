@@ -15,12 +15,12 @@
 
 ### PYTHON ADVANCED
 - [ ] [Многопоточный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python)
-- [ ] [Многопроцесcоный Python]()
+- [ ] Многопроцесcоный Python
 - [ ] [Асинхронный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/03_course_async_python)
 
 
 ### PYTHON PYPI
-- [ ] [Selenium Python]()
+- [ ] Selenium Python
 
 
 ### PYTHON FRAMEWORKS
