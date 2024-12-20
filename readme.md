@@ -6,4 +6,4 @@
 - [] [Поколение Python: Курс для гуру](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru)
 
 ## Databases and SQL
-- [] [Поколение SQL: Курс для начинающих]()
+- [] [Поколение SQL: Курс для начинающих](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/sql_generation/01_course_for_beginners)
