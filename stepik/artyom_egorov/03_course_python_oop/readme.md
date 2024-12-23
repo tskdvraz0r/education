@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/114354/info
+
+
 # Программа курса
 - [ ] [1. Добро пожаловать на курс](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/03_course_python_oop/module/module_01)
     - [ ] [1.1 Информация о курсе](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/03_course_python_oop/module/module_01/lesson_01)

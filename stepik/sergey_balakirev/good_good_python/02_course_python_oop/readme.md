@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/116336/info
+
+
 # Программа курса
 - [ ] [1. Первые шаги в ООП](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/02_course_python_oop/module/module_01)
     - [ ] [1.1 Как правильно выполнять задания курса](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/02_course_python_oop/module/module_01/lesson_01)

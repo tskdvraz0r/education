@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/119495/info
+
+
 # Программа курса
 - [ ] [1. Начало](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/04_course_python_selenium/module/module_01)
     - [ ] [1.1 Введение в Selenium](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/04_course_python_selenium/module/module_01/lesson_01)

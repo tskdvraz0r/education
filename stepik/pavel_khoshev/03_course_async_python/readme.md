@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/170777/info
+
+
 # Программа курса
 - [ ] [1. Начало](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multiprocessing_python/module/module_01)
     - [ ] [1.1 Предисловие](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multiprocessing_python/module/module_01/lesson_01)

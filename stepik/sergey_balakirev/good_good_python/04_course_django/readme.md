@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/183363/info
+
+
 # Программа курса
 - [ ] [1. Установка Django и создание проекта](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/04_course_django/module/module_01)
     - [ ] [1.1 Что такое Django. Инструментальные средства](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/04_course_django/module/module_01/lesson_01)

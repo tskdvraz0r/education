@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/195619/info
+
+
 # Программа курса
 - [ ] [1. Введение](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/02_course_functional_programming/module/module_01)
     - [ ] [1.1 О чем курс](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/02_course_functional_programming/module/module_01/lesson_01)

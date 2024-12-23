@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/100707/info
+
+
 # Программа курса
 - [ ] [1. Первое знакомство](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/01_course_python/module/module_01)
     - [ ] [1.1 Как правильно проходить этот курс](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/01_course_python/module/module_01/lesson_01)

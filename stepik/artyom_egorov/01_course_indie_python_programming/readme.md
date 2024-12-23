@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/63085/info
+
+
 # Программа курса
 - [ ] [1. Первые шаги](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/01_course_indie_python_programming/module/module_01)
     - [ ] [1.1 Введение в курс](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/01_course_indie_python_programming/module/module_01/lesson_01)

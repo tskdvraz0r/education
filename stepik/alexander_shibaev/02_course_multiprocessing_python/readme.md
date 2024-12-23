@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/188951/info
+
+
 # Программа курса
 - [ ] [1. Основные понятия](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/02_course_multiprocessing_python/module/module_01)
     - [ ] [1.1 Введение](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/02_course_multiprocessing_python/module/module_01/lesson_01)

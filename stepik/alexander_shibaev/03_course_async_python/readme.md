@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/189436/info
+
+
 # Программа курса
 - [ ] [1. Введение](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/03_course_async_python/module/module_01)
     - [ ] [1.1 Приветствие!](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/03_course_async_python/module/module_01/lesson_01)

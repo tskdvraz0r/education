@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/190100/info
+
+
 # Программа курса
 - [ ] [1. Введение в многопоточность](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01)
     - [ ] [1.1 Введение](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_01)

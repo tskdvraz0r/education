@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/127822/info
+
+
 # Программа курса
 - [ ] [1. Добро пожаловать на курс](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/04_course_advanced_python/module/module_01)
     - [ ] [1.1 Знакомство с курсом](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/04_course_advanced_python/module/module_01/lesson_01)

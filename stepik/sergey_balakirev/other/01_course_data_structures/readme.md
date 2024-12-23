@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/134212/info
+
+
 # Программа курса
 - [ ] [1. Учимся оценивать вычислительную сложность алгоритмов](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/other/01_course_data_structures/module/module_01)
     - [ ] [1.1 Введение в Big O](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/other/01_course_data_structures/module/module_01/lesson_01)

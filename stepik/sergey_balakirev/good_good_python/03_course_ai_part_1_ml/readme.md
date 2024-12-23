@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/209247/info
+
+
 # Программа курса
 - [ ] [1. Введение в машинное обучение](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/03_course_ai_part_1_ml/module/module_01)
     - [ ] [1.1 Начало](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/03_course_ai_part_1_ml/module/module_01/lesson_01)
