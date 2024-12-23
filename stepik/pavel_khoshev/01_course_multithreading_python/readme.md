@@ -4,9 +4,9 @@ https://stepik.org/course/190100/info
 
 # Программа курса
 - [ ] [1. Введение в многопоточность](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01)
-    - [ ] [1.1 Введение](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_01)
-    - [ ] [1.2 Основные понятия](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_02)
-    - [ ] [1.3 Что такое потоки](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_03)
+    - [x] 1.1 Введение
+    - [x] 1.2 Основные понятия
+    - [x] [1.3 Что такое потоки](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_03)
     - [ ] [1.4 Что такое главный поток](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_04)
     - [ ] [1.5 Ожидание результата от потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_05)
     - [ ] [1.6 Ожидание выполнения потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_06)
