@@ -27,7 +27,7 @@ ___
 
 > **Павел Хошев**
 - [ ] [Многопоточный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python)
-- [ ] Многопроцесcоный Python
+- [ ] [Многопроцесcоный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python)
 - [ ] [Асинхронный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/03_course_async_python)
 
 > **Сергей Балакирев**
