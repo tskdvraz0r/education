@@ -5,7 +5,7 @@ ___
 > **BEEGEEK**
 - [ ] [Поколение Python: Курс для начинающих](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/01_course_for_beginners)
 - [ ] [Поколение Python: Курс для продвинутых](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/02_course_for_advanced)
-- [ ] [Поколение Python: Курс для профессионалов](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/03_course_for_professionals)
+
 
 > **Артём Егоров**
 - [ ] [Инди-курс программирования на Python](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/01_course_indie_python_programming)
@@ -18,20 +18,31 @@ ___
 ### PYTHON ADVANCED
 ___
 > **BEEGEEK**
+- [ ] [Поколение Python: Курс для профессионалов](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/03_course_for_professionals)
 - [ ] [Поколение Python: Курс для гуру](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru)
+
+
+> **Александр Шибаев**
+- [ ] [Многопоточность в Python. Multithreading](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/01_course_multithreading_python)
+- [ ] [Многопроцессность в Python. Multiprocessing](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/02_course_multiprocessing_python)
+- [ ] [Асинхронность в Python. Asyncio](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/03_course_async_python)
+
 
 > **Артём Егоров**
 - [ ] [Функциональное программирование на Python](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/02_course_functional_programming)
 - [ ] [ООП: Объектно-ориентированное программирование на Python](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/03_course_python_oop)
 - [ ] [Продвинутый python: заряди свои батарейки](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/04_course_advanced_python)
 
+
 > **Павел Хошев**
 - [ ] [Многопоточный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python)
 - [ ] [Многопроцесcоный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python)
 - [ ] [Асинхронный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/03_course_async_python)
 
+
 > **Сергей Балакирев**
 - [ ] [Добрый, добрый Python ООП](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/02_course_python_oop)
+
 
 ### PYTHON PYPI
 ___
