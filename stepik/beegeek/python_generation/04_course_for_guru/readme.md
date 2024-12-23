@@ -1,3 +1,6 @@
+# Ссылка на курс
+https://stepik.org/course/98974/syllabus
+
 # Программа курса
 - [ ] [1. О курсе](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru/module/module_01)
     - [ ] [1.1 О курсе](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru/module/module_01/lesson_01)

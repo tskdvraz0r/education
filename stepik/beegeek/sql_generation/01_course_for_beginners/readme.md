@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/113918/info
+
+
 # Программа курса
 - [ ] [1. О курсе](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/sql_generation/01_course_for_beginners/module/module_01)
     - [ ] [1.1 О курсе](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/sql_generation/01_course_for_beginners/module/module_01/lesson_01)

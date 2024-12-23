@@ -1,3 +1,7 @@
+# Ссылка на курс
+https://stepik.org/course/68343/info
+
+
 # Программа курса
 - [ ] [1. Общая информация о курсе](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/02_course_for_advanced/module/module_01)
     - [ ] [1.1 О курсе](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/02_course_for_advanced/module/module_01/lesson_01)
