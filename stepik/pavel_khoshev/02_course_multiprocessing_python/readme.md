@@ -38,7 +38,7 @@
     - [ ] [4.4 Многопроцессорный Event](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python/module/module_04/lesson_04)
     - [ ] [4.5 Многопроцессорный Semaphore](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python/module/module_04/lesson_05)
     - [ ] [4.6 Многопроцессорная переменная Condition](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python/module/module_04/lesson_06)
-    - [ ] [4.7 Многопроцессорный Barrier](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python/module/module_0/lesson_07)
+    - [ ] [4.7 Многопроцессорный Barrier](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python/module/module_04/lesson_07)
 
 - [ ] [5. Убийство процессов](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python/module/module_05)
     - [ ] [5.1 Остановка главного процесса дочерним](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python/module/module_05/lesson_01)
