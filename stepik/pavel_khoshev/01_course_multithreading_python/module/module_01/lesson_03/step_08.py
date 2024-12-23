@@ -1,3 +1,4 @@
+# Импорты
 import threading
 import sys
 from loguru import logger

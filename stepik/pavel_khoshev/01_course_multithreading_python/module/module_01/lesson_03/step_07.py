@@ -1,3 +1,4 @@
+# Импорты
 import sys
 import threading as thr
 

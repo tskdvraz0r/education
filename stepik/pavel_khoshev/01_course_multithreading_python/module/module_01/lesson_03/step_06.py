@@ -1,3 +1,4 @@
+# Импорты
 import sys
 import typing
 import threading as thr
