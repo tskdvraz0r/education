@@ -21,7 +21,11 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install loguru
+        pip install loguru pytest
+    
+    - name: Run tests
+      run: |
+        pytest tests
 
     - name: Run khoshev_c1_m1_l3_s6
       run: |
