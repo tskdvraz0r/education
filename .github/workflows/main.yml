@@ -25,16 +25,16 @@ jobs:
 
     - name: Run khoshev_c1_m1_l3_s6
       run: |
-        python stepik\pavel_khoshev\01_course_multithreading_python\module\module_01\lesson_03\step_06.py
+        python stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_03/step_06.py
 
     - name: Run khoshev_c1_m1_l3_s7
       run: |
-        python stepik\pavel_khoshev\01_course_multithreading_python\module\module_01\lesson_03\step_07.py
+        python stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_03/step_07.py
     
     - name: Run khoshev_c1_m1_l3_s8
       run: |
-        python stepik\pavel_khoshev\01_course_multithreading_python\module\module_01\lesson_03\step_08.py
+        python stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_03/step_08.py
     
     - name: Run khoshev_c1_m1_l3_s9
       run: |
-        python stepik\pavel_khoshev\01_course_multithreading_python\module\module_01\lesson_03\step_09.py
+        python stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_03/step_09.py
