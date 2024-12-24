@@ -1,9 +1,11 @@
+import sys
 import threading as thr
 from typing import List
 
 import pytest
 from loguru import logger
 
+sys.path.insert(0, r"stepik\pavel_khoshev\01_course_multithreading_python")
 from module.module_01.lesson_03 import step_06
 
 # Тесты для функции sum_of_numbers
