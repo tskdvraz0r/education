@@ -3,7 +3,7 @@ https://stepik.org/course/190100/info
 
 
 # Программа курса
-- [ ] [1. Введение в многопоточность](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01)
+- [x] [1. Введение в многопоточность](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01)
     - [x] 1.1 Введение
     - [x] 1.2 Основные понятия
     - [x] [1.3 Что такое потоки](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_03)
@@ -13,9 +13,9 @@ https://stepik.org/course/190100/info
     - [x] [1.7 Имена потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_07)
     - [x] [1.8 Атрибуты потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_08)
     - [x] [1.9 Хранение локальных данных потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_09)
-    - [ ] [1.10 Атомарные операции](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_10)
-    - [ ] [1.11 Поток-таймер](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_11)
-    - [ ] [1.12 Вспомогательные функции для работы с потоками](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_12)
+    - [x] 1.10 Атомарные операции
+    - [x] [1.11 Поток-таймер](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_11)
+    - [x] [1.12 Вспомогательные функции для работы с потоками](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_12)
 
 - [ ] [2. Работа с пулами потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02)
     - [ ] [2.1 Что такое пулы потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_01)
