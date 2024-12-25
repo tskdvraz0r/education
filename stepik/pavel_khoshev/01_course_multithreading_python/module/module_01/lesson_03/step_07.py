@@ -1,69 +1,27 @@
-# Импорты
-import sys
-import threading as thr
-
-from loguru import logger
+import threading as th
+import numpy as np
 
 
-# Настройка логирования
-logger.remove()
-logger.add(sys.stdout, level="TRACE")
-
-# Переменные;
 total_sum: int = 0
-total_prod: int = 1
+total_mult: int = 0
 
-# Локальные функции;
-def sum_of_numbers() -> None:
-    """
-    Вычисляет сумму чисел от 1 до 1000 и сохраняет результат в глобальной переменной total_sum.
-    """
+
+def sum_numbers() -> None:
     global total_sum
-    try:
-        logger.trace("Начало вычисления суммы чисел от 1 до 1000")
-        total_sum = sum(range(1, 1001))
-        logger.trace(f"Сумма чисел от 1 до 1000: {total_sum}")
-    except Exception as e:
-        logger.error(f"Ошибка при вычислении суммы чисел: {e}")
-        sys.exit(1)
+    total_sum = np.sum(np.arange(1, 1001))
 
-def prod_of_numbers() -> None:
-    """
-    Вычисляет произведение чисел от 1 до 10 и сохраняет результат в глобальной переменной total_prod.
-    """
-    global total_prod
-    try:
-        logger.trace("Начало вычисления произведения чисел от 1 до 10")
-        for i in range(1, 11):
-            total_prod *= i
-        logger.trace(f"Произведение чисел от 1 до 10: {total_prod}")
-    except Exception as e:
-        logger.error(f"Ошибка при вычислении произведения чисел: {e}")
-        sys.exit(1)
+def mult_numbers() -> None:
+    global total_mult
+    total_mult = np.prod(np.arange(1, 11))
 
-# Создать потоки;
-logger.trace("Создание потоков")
-thr_sum: thr.Thread = thr.Thread(target=sum_of_numbers)
-thr_prod: thr.Thread = thr.Thread(target=prod_of_numbers)
+thread1: th.Thread = th.Thread(target=sum_numbers)
+thread2: th.Thread = th.Thread(target=mult_numbers)
 
-# Запустить потоки;
-logger.trace("Запуск потоков")
-thr_sum.start()
-thr_prod.start()
+thread1.start()
+thread2.start()
 
-# Дождаться завершения потоков;
-logger.trace("Ожидание завершения потоков")
-thr_sum.join()
-thr_prod.join()
+thread1.join()
+thread2.join()
 
-# Вывести результат;
-logger.trace("Вывод результатов")
-try:
-    print(
-        f"Сумма чисел от 1 до 1000: {total_sum}",
-        f"Произведение чисел от 1 до 10: {total_prod}",
-        sep="\n"
-    )
-except Exception as e:
-    logger.error(f"Ошибка при выводе результатов: {e}")
-    sys.exit(1)
+print(f"Сумма чисел от 1 до 1000: {total_sum}")
+print(f"Произведение чисел от 1 до 10: {total_mult}")
