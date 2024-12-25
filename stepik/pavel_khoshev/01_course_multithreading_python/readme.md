@@ -7,11 +7,11 @@ https://stepik.org/course/190100/info
     - [x] 1.1 Введение
     - [x] 1.2 Основные понятия
     - [x] [1.3 Что такое потоки](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_03)
-    - [ ] [1.4 Что такое главный поток](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_04)
-    - [ ] [1.5 Ожидание результата от потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_05)
-    - [ ] [1.6 Ожидание выполнения потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_06)
-    - [ ] [1.7 Имена потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_07)
-    - [ ] [1.8 Атрибуты потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_08)
+    - [x] [1.4 Что такое главный поток](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_04)
+    - [x] [1.5 Ожидание результата от потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_05)
+    - [x] [1.6 Ожидание выполнения потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_06)
+    - [x] [1.7 Имена потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_07)
+    - [x] [1.8 Атрибуты потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_08)
     - [ ] [1.9 Хранение локальных данных потока](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_09)
     - [ ] [1.10 Атомарные операции](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_10)
     - [ ] [1.11 Поток-таймер](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_11)
