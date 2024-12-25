@@ -19,11 +19,6 @@ ___
 ### ADVANCED
 Темы, которые развивают умение писать более сложные и эффективные программы. Регулярные выражения, анонимные функции, итераторы и работа с файлами:
 ___
-> **BEEGEEK**
-- [ ] [Поколение Python: Курс для профессионалов](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/03_course_for_professionals)
-- [ ] [Поколение Python: Курс для гуру (ООП)](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru)
-
-
 > **Артём Егоров**
 - [ ] [Функциональное программирование на Python](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/02_course_functional_programming)
 - [ ] [ООП: Объектно-ориентированное программирование на Python](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/03_course_python_oop)
@@ -36,6 +31,11 @@ ___
 
 ### PROFESSIONAL
 ООП и конкурентность (многопоточность, многопроцессность, асинхронность):
+> **BEEGEEK**
+- [ ] [Поколение Python: Курс для профессионалов](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/03_course_for_professionals)
+- [ ] [Поколение Python: Курс для гуру (ООП)](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru)
+
+
 > **Александр Шибаев**
 - [ ] [Многопоточность в Python. Multithreading](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/01_course_multithreading_python)
 - [ ] [Многопроцессность в Python. Multiprocessing](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/02_course_multiprocessing_python)
