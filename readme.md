@@ -1,7 +1,7 @@
 # ПРОГРАММА ОБУЧЕНИЯ
 ## PYTHON
-### BASIC
-Основные типы данных, структуры, алгоритмические конструкции и принципы программирования на python.
+### FUNDAMENTALS
+Базовые концепции, которые составляют фундамент языка:
 ___
 > **BEEGEEK**
 - [ ] [Поколение Python: Курс для начинающих](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/01_course_for_beginners)
@@ -16,12 +16,12 @@ ___
 - [ ] [Добрый, добрый Python](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/01_course_python)
 
 
-### PYTHON ADVANCED
-Дополнительные возможности языка python: даты и время, дополнительные типы коллекций, итераторы, генераторы, декораторы, рекурсия, исключения, регулярные выражения, ООП (атрибуты, методы, свойства, магические методы, наследование, полиморфизм, декораторы классов и многое другое).
+### ADVANCED
+Темы, которые развивают умение писать более сложные и эффективные программы. Регулярные выражения, анонимные функции, итераторы и работа с файлами:
 ___
 > **BEEGEEK**
 - [ ] [Поколение Python: Курс для профессионалов](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/03_course_for_professionals)
-- [ ] [Поколение Python: Курс для гуру](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru)
+- [ ] [Поколение Python: Курс для гуру (ООП)](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru)
 
 
 > **Артём Егоров**
@@ -34,22 +34,28 @@ ___
 - [ ] [Добрый, добрый Python ООП](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/02_course_python_oop)
 
 
-### PYTHON PYPI
-Встроенные и сторонние библиотеки python.
-___
+### PROFESSIONAL
+ООП и конкурентность (многопоточность, многопроцессность, асинхронность):
 > **Александр Шибаев**
 - [ ] [Многопоточность в Python. Multithreading](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/01_course_multithreading_python)
 - [ ] [Многопроцессность в Python. Multiprocessing](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/02_course_multiprocessing_python)
 - [ ] [Асинхронность в Python. Asyncio](https://github.com/tskdvraz0r/education/tree/main/stepik/alexander_shibaev/03_course_async_python)
 
+
 > **Павел Хошев**
 - [ ] [Многопоточный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python)
 - [ ] [Многопроцесcоный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python)
 - [ ] [Асинхронный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/03_course_async_python)
+
+
+### PYPI
+Встроенные и сторонние библиотеки python.
+___
+> **Павел Хошев**
 - [ ] [Selenium Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/04_course_python_selenium)
 
 
-### PYTHON FRAMEWORKS
+### FRAMEWORKS
 Фреймворки python.
 ___
 > **Сергей Балакирев**
