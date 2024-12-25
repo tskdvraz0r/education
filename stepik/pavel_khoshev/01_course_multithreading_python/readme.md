@@ -19,7 +19,7 @@ https://stepik.org/course/190100/info
 
 - [ ] [2. Работа с пулами потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02)
     - [x] [2.1 Что такое пулы потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_01)
-    - [ ] [2.2 Создание пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_02)
+    - [x] [2.2 Создание пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_02)
     - [ ] [2.3 Отправка задач в пул потоков с помощью submit() и map()](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_03)
     - [ ] [2.4 Получаем результаты из пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_04)
     - [ ] [2.5 Что такое Executors](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_05)
