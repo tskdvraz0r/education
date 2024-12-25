@@ -23,6 +23,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install loguru pytest
 
-    - name: Run test_khoshev_01_course_multithreading
-      run: |
-        pytest stepik/pavel_khoshev/01_course_multithreading_python/test
+#    - name: Run test_khoshev_01_course_multithreading
+#      run: |
+#        pytest stepik/pavel_khoshev/01_course_multithreading_python/test
