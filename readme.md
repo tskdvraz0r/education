@@ -25,10 +25,6 @@ ___
 - [ ] [Продвинутый python: заряди свои батарейки](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/04_course_advanced_python)
 
 
-> **Сергей Балакирев**
-- [ ] [Добрый, добрый Python ООП](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/02_course_python_oop)
-
-
 ### PROFESSIONAL
 ООП и конкурентность (многопоточность, многопроцессность, асинхронность):
 > **BEEGEEK**
@@ -46,6 +42,10 @@ ___
 - [ ] [Многопоточный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python)
 - [ ] [Многопроцесcоный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/02_course_multiprocessing_python)
 - [ ] [Асинхронный Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/03_course_async_python)
+
+
+> **Сергей Балакирев**
+- [ ] [Добрый, добрый Python ООП](https://github.com/tskdvraz0r/education/tree/main/stepik/sergey_balakirev/good_good_python/02_course_python_oop)
 
 
 ### PYPI
