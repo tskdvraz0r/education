@@ -1,14 +1,7 @@
 import time
 import threading as th
 
-
-code_names: list = [
-    "Alpha",
-    "Bravo",
-    "Delta",
-    "Charley",
-    "Echo"
-]
+code_names: list = ["Alpha", "Bravo", "Delta", "Charley", "Echo"]
 
 
 def task(code_name: str) -> None:

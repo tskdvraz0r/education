@@ -1,7 +1,6 @@
 import threading as th
 import numpy as np
 
-
 total_sum: int = 0
 total_mult: int = 0
 
@@ -10,9 +9,11 @@ def sum_numbers() -> None:
     global total_sum
     total_sum = np.sum(np.arange(1, 1001))
 
+
 def mult_numbers() -> None:
     global total_mult
     total_mult = np.prod(np.arange(1, 11))
+
 
 thread1: th.Thread = th.Thread(target=sum_numbers)
 thread2: th.Thread = th.Thread(target=mult_numbers)

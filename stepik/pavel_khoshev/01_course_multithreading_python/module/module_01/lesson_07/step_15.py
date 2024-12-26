@@ -1,7 +1,6 @@
 import time
 import threading as th
 
-
 thread_names: list[str] = [
     "OF95RK",
     "VH61DX",

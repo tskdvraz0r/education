@@ -1,7 +1,6 @@
 import time
 import threading as th
 
-
 file_names: list[str] = ["file623.xlsx", "file538.jpg", "file13.txt"]
 results: list = []
 

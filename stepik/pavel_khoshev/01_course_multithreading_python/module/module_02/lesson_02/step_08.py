@@ -1,6 +1,5 @@
 from concurrent.futures import Future, ThreadPoolExecutor
 
-
 list1: list[str] = ["kw63vdxI", "YmSsWblC", "5OJ3Mto9"]
 list2: list[str] = ["7GBrUY6t", "bfQjS3gj", "MhTsKf0X"]
 list3: list[str] = ["mt05f80F", "haHHiXoX", "v2cYPhRO"]

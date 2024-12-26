@@ -1,6 +1,5 @@
 import threading as th
 
-
 initial_bid: int = 0
 bid_increment: int = 1
 max_bid: int = 10

@@ -2,7 +2,6 @@ import time
 import typing
 import threading as th
 
-
 students_info: dict[str, dict[str, typing.Any]] = {
     "Варлаам Бирюкова": {
         "Возраст": 25,
@@ -35,7 +34,6 @@ students_info: dict[str, dict[str, typing.Any]] = {
         "Время обработки": 5,
     },
 }
-
 
 local_storage = th.local()
 
