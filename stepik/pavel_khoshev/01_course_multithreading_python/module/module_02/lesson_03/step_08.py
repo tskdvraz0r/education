@@ -9,4 +9,4 @@ def get_square_of_number(number: int) -> int:
 
 
 with ThreadPoolExecutor(max_workers=3) as executor:
-    [executor.submit(get_square_of_number, number=i) for i in numbers]
+    executor.map(get_square_of_number, numbers)
