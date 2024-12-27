@@ -23,7 +23,7 @@ https://stepik.org/course/190100/info
     - [x] [2.3 Отправка задач в пул потоков с помощью submit() и map()](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_03)
     - [x] [2.4 Получаем результаты из пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_04)
     - [x] [2.5 Что такое Executors](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_05)
-    - [ ] [2.6 Ожидание завершения задач](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_06)
+    - [x] [2.6 Ожидание завершения задач](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_06)
     - [ ] [2.7 Инициализация рабочих потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_07)
     - [ ] [2.8 Завершение работы пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_08)
     - [ ] [2.9 Количество потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_09)
