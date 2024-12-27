@@ -17,7 +17,7 @@
     - [x] [1.11 Поток-таймер](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_11)
     - [x] [1.12 Вспомогательные функции для работы с потоками](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_01/lesson_12)
 
-- [ ] [2. Работа с пулами потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02)
+- [x] [2. Работа с пулами потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02)
     - [x] [2.1 Что такое пулы потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_01)
     - [x] [2.2 Создание пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_02)
     - [x] [2.3 Отправка задач в пул потоков с помощью submit() и map()](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_03)
