@@ -28,8 +28,8 @@
     - [x] [2.8 Завершение работы пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_08)
     - [x] 2.9 Количество потоков
     - [x] [2.10 Жизненный цикл пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_10)
-    - [ ] [2.11 Тестирование и оптимальное количество потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_11)
-    - [ ] [2.12 ThreadPool vs AsyncIO](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_12)
+    - [x] [2.11 Тестирование и оптимальное количество потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_11)
+    - [x] 2.12 ThreadPool vs AsyncIO
 
 - [ ] [3. Подробнее о Futures](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03)
     - [ ] [3.1 Что такое Futures](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_01)
