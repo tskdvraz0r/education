@@ -21,7 +21,6 @@ ___
 ___
 > **Артём Егоров**
 - [ ] [Функциональное программирование на Python](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/02_course_functional_programming)
-- [ ] [ООП: Объектно-ориентированное программирование на Python](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/03_course_python_oop)
 - [ ] [Продвинутый python: заряди свои батарейки](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/04_course_advanced_python)
 
 
@@ -30,6 +29,10 @@ ___
 > **BEEGEEK**
 - [ ] [Поколение Python: Курс для профессионалов](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/03_course_for_professionals)
 - [ ] [Поколение Python: Курс для гуру (ООП)](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/python_generation/04_course_for_guru)
+
+
+> **Артём Егоров**
+- [ ] [ООП: Объектно-ориентированное программирование на Python](https://github.com/tskdvraz0r/education/tree/main/stepik/artyom_egorov/03_course_python_oop)
 
 
 > **Александр Шибаев**
