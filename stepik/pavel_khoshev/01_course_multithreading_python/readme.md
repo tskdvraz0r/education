@@ -25,7 +25,7 @@
     - [x] [2.5 Что такое Executors](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_05)
     - [x] [2.6 Ожидание завершения задач](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_06)
     - [x] [2.7 Инициализация рабочих потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_07)
-    - [ ] [2.8 Завершение работы пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_08)
+    - [x] [2.8 Завершение работы пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_08)
     - [ ] [2.9 Количество потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_09)
     - [ ] [2.10 Жизненный цикл пула потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_10)
     - [ ] [2.11 Тестирование и оптимальное количество потоков](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_02/lesson_11)
