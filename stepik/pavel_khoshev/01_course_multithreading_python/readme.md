@@ -1,5 +1,5 @@
-# Ссылка на курс
-https://stepik.org/course/190100/info
+# МНОГОПОТОЧНЫЙ PYTHON
+> Ссылка на курс: https://stepik.org/course/190100/info
 
 
 # Программа курса
