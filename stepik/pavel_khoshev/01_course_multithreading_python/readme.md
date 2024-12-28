@@ -32,7 +32,7 @@
     - [x] 2.12 ThreadPool vs AsyncIO
 
 - [ ] [3. Подробнее о Futures](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03)
-    - [ ] [3.1 Что такое Futures](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_01)
+    - [x] [3.1 Что такое Futures](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_01)
     - [ ] [3.2 Объект Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_02)
     - [ ] [3.3 Методы Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_03)
     - [ ] [3.4 Жизненный цикл Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_04)
