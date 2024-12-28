@@ -34,7 +34,7 @@
 - [ ] [3. Подробнее о Futures](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03)
     - [x] [3.1 Что такое Futures](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_01)
     - [x] 3.2 Объект Future
-    - [ ] [3.3 Методы Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_03)
+    - [x] [3.3 Методы Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_03)
     - [ ] 3.4 Жизненный цикл Future
     - [ ] [3.5 Проверяем статус Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_05)
     - [ ] [3.6 Добавляем обратный вызов к Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_06)
