@@ -35,13 +35,13 @@ with ThreadPoolExecutor(max_workers=10) as executor:
         print(result.result())
 
 with ThreadPoolExecutor(max_workers=20) as executor:
-    futures_meduim: list[Future[dict[int, Any]]] = [
+    futures_medium: list[Future[dict[int, Any]]] = [
         executor.submit(process_number, medium_number, cube)
         for medium_number in medium_numbers
     ]
 
     print("\nРезультаты для средних чисел (возведение в куб):")
-    for result in futures_meduim:
+    for result in futures_medium:
         print(result.result())
 
 
