@@ -1,14 +1,14 @@
 from threading import Lock
 from concurrent.futures import ThreadPoolExecutor
 
-
 fifty: list[str] = ["OF95RK", "VH61DX", "NB03WA", "OL41DZ"]
 one_hundred: list[str] = ["JF39XW", "RO06QB", "RW48XW", "ZE42EF"]
 two_hundred: list[str] = ["FP99WI", "IJ21HS", "SV16JN", "EP11JG"]
 
+stdout_lock = Lock()
 
 def process_element(elem, pool_size) -> None:
-    with Lock():
+    with stdout_lock:
         print(f"Элемент {elem} списка из пула размером {pool_size}")
 
 
