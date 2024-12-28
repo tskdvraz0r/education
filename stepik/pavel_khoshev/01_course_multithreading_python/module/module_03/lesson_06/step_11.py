@@ -1,5 +1,4 @@
 from threading import Lock
-from time import sleep
 from concurrent.futures import ThreadPoolExecutor, Future
 
 inventory = {
