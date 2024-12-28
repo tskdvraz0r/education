@@ -38,7 +38,7 @@
     - [x] 3.4 Жизненный цикл Future
     - [x] [3.5 Проверяем статус Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_05)
     - [x] [3.6 Добавляем обратный вызов к Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_06)
-    - [ ] [3.7 Получение исключений из Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_07)
+    - [x] [3.7 Получение исключений из Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_07)
     - [ ] [3.8 Всё об отмене Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_08)
 
 - [ ] [4. Потокобезопасные очереди](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04)
