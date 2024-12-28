@@ -50,7 +50,7 @@
 
 - [ ] [5. Управление потоками и синхронизация](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_05)
     - [ ] [5.1 Блокировка взаимного исключения (Lock)](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_05/lesson_01)
-    - [ ] [5.2 Реентерабельная блокировка (RLock)](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_05/lesson_02)
+    - [ ] [5.2 Реентерабельные блокировки (RLock)](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_05/lesson_02)
     - [ ] [5.3 Синхронизация по событиям (Event)](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_05/lesson_03)
     - [ ] [5.4 Синхронизация с условием (Condition)](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_05/lesson_04)
     - [ ] [5.5 Семафор в потоках (Semaphore)](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_05/lesson_05)
