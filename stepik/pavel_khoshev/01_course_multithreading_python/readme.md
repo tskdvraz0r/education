@@ -42,7 +42,7 @@
     - [x] [3.8 Всё об отмене Future](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_03/lesson_08)
 
 - [ ] [4. Потокобезопасные очереди](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04)
-    - [ ] [4.1 Введение в очереди](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_01)
+    - [x] 4.1 Введение в очереди
     - [ ] [4.2 Queue](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_02)
     - [ ] [4.3 LifoQueue](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_03)
     - [ ] [4.4 PriorityQueue](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_04)
