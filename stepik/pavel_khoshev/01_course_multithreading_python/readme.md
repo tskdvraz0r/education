@@ -43,7 +43,7 @@
 
 - [ ] [4. Потокобезопасные очереди](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04)
     - [x] 4.1 Введение в очереди
-    - [ ] [4.2 Queue](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_02)
+    - [x] [4.2 Queue](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_02)
     - [ ] [4.3 LifoQueue](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_03)
     - [ ] [4.4 PriorityQueue](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_04)
     - [ ] [4.5 SimpleQueue и исключения](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/01_course_multithreading_python/module/module_04/lesson_05)
