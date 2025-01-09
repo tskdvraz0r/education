@@ -1,4 +1,5 @@
 import threading as th
+
 import numpy as np
 
 numbers: np.ndarray = np.array([123456, 7890123, 987654, 114455, 995423, 1000000])
