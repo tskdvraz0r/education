@@ -5,8 +5,12 @@ from queue import Queue
 from threading import Lock, Thread
 from time import sleep
 
-
-sys.path.append("/Users/ts.kdv.raz0r/Yandex.Disk.localized/GitHub/education")
+match sys.platform:
+    case "win32":
+        sys.path.append(r"C:\Users\d.zakharchenko\Desktop\GitHub\education")
+    case "darwin":
+        sys.path.append("/Users/ts.kdv.raz0r/Yandex.Disk.localized/GitHub/education")
+        
 from packages.utils.decorators.time_spend import time_spend  # type: ignore
 
 # Блокиратор "духовки";
