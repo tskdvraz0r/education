@@ -1,0 +1,1 @@
+ROOT_FOLDER_PATH: str = r"C:\Users\d.zakharchenko\Desktop\GitHub\education"
