@@ -57,6 +57,9 @@ ___
 > **Павел Хошев**
 - [ ] [Selenium Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/04_course_python_selenium)
 
+> **Лукьянов Федор**
+- [ ] {Python for Data Science: Практика Numpy}()
+
 
 ### FRAMEWORKS
 Фреймворки python.
@@ -77,3 +80,11 @@ ___
 ___
 > **BEEGEEK**
 - [ ] [Поколение SQL: Курс для начинающих](https://github.com/tskdvraz0r/education/tree/main/stepik/beegeek/sql_generation/01_course_for_beginners)
+
+
+# КУРСЫ
+> **Артём Баданов**
+- [ ] [Python Engineer с нуля до junior]()
+- [ ] [Parsing Engineer с нуля до junior]()
+- [ ] [SQL Engineer с нуля до junior]()
+- [ ] [Data Engineer с нуля до junior]()
