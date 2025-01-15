@@ -58,7 +58,7 @@ ___
 - [ ] [Selenium Python](https://github.com/tskdvraz0r/education/tree/main/stepik/pavel_khoshev/04_course_python_selenium)
 
 > **Лукьянов Федор**
-- [ ] {Python for Data Science: Практика Numpy}()
+- [ ] [Python for Data Science: Практика Numpy](https://github.com/tskdvraz0r/education/tree/main/stepik/fyodor_lukyanov/course_01_numpy)
 
 
 ### FRAMEWORKS
